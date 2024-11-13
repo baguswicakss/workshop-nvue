@@ -1,4 +1,3 @@
-ubuntu@oob-mgmt-server:~/workshop$ cat README.md
 # NVIDIA Cumulus Linux Automation Workshop using NVUE and Ansible
 
 This branch contains NVUE and Ansible automation to configure different demo scenarios using [NVUE](https://docs.nvidia.com/networking-ethernet-software/cumulus-linux/System-Configuration/NVIDIA-User-Experience-NVUE/) on Cumulus Linux 5.5.
